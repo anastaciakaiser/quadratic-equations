@@ -12,7 +12,6 @@ public class Solver {
 
         if (a == 0) {
             if (b == 0) {
-                // Бесконечное количество корней
                 return new Solution("x ∈ R");
             }
             // Линейное уравнение
